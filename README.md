@@ -1,4 +1,4 @@
 # cardosodiaseduardoteste
 Repositório para testes do Git
 
-Repositório criado para testar as funcionalidades do Git e suas aplicações.
+Repositório de teste para criação de projeto para PMCG.
